@@ -43,11 +43,11 @@ aoslo-cell-density-estimation/
 │  
 ├─ data/  
 │  
-├─ models/                # Saved checkpoints grouped per variant  
+├─ models/                
 │  
-├─ notebooks/             # Jupyter notebooks  
-├─ LICENSE                # Apache-2.0 for code  
-└─ README.md              # You are here 🙂  
+├─ notebooks/             
+├─ LICENSE                
+└─ README.md              
 
 ---
 
